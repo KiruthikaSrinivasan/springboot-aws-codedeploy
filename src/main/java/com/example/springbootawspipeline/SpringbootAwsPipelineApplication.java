@@ -15,6 +15,6 @@ public class SpringbootAwsPipelineApplication {
 	@GetMapping("/")
 	public String getData()
 	{
-		return "HELLO KIRUTHIKA FROM AMIZHTH";
+		return "HELLO KIRUTHIKA FROM AMIZHTH TECHNO SOLUTIONS";
 	}
 }
